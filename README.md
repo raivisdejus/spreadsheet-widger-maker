@@ -1,6 +1,8 @@
 # Spreadsheet widget maker #
 
-This repo contains power-user friendly code to turn any spreadsheet (csv actually) into a widget. So to run it you will need:
+This repo contains power-user friendly code to turn any spreadsheet (csv actually) into a widget. 
+
+So to run it you will need:
 * Read the rest of this document
 * Change config values in code constants
 * Compile the app or run the script (might need to do some Googling to prove you are true power-user) 
